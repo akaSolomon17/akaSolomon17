@@ -53,9 +53,9 @@
       🦾: My Stats :
     </h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mafiavietquat&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akaSolomon17&theme=green_nur&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mafiavietquat&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaSolomon17&show_icons=true&theme=blue-green)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mafiavietquat&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaSolomon17&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 </div>
