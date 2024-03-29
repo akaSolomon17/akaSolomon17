@@ -14,7 +14,6 @@
   </div>
 
 <div>I'm Tin</div>
-<div>I'm currently working on Capstone 2 which is my college project!</div>
 <div>Contact me: quochuy.4work@gmail.com</div>
  ---
  </div>
